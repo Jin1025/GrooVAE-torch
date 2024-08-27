@@ -1,7 +1,6 @@
 ## You can create folders just like in [Google Drive](https://drive.google.com/drive/folders/1SqLu6v6bxBrmQt67ledKSBJYrxqpCsaF?usp=drive_link)
 
 Each folder contains files described below:
----
 
 * data processed
   
